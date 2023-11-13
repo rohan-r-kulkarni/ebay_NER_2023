@@ -6,6 +6,8 @@ Listing_Titles.tsv
 Listing_Titles.tsv.gz
 Train_Tagged_Titles.tsv
 Train_Tagged_Titles.tsv.gz
+train_data_tokenized.csv
+orig/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
